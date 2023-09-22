@@ -27,6 +27,8 @@ npm run build
 
 Rename the `.env.example` file to `.env` and paste your bot's token along with the client and guild ID.
 
+To update custom status, head to [`src/classes/Client.ts`](https://github.com/ronyfied/RonyBot/blob/1f044f2a81f0dcc4aa90f6620ef527972c1fa650/src/classes/Client.ts#L24).
+
 6. Run the bot
 ```
 npm run start
