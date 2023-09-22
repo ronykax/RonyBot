@@ -1,4 +1,4 @@
-# RonyBot 🤖
+# RonyBot
 Private moderation & utility bot for Rony's Discord server
 
 ### Installation
@@ -24,6 +24,7 @@ npm run build
 ```
 
 5. Configure your bot
+
 Rename the `.env.example` file to `.env` and paste your bot's token along with the client and guild ID.
 
 6. Run the bot
