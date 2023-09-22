@@ -1,5 +1,5 @@
 # RonyBot
-Private moderation & utility bot for Rony's Discord server
+Private moderation & utility bot for Rony's Discord server.
 
 ### Installation
 This bot runs on [Node.js](https://nodejs.org/en) and can be self-hosted. Follow these steps to install and start the bot:
